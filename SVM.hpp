@@ -1,7 +1,11 @@
 #ifndef SVM_H_INCLUDED
 #define SVM_H_INCLUDED
 
-#include "mbed.h"
+#include <math.h>
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
+#include <cstring>
 
 #include "util.hpp"
 
